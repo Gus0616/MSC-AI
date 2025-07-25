@@ -1,0 +1,13 @@
+.main-container{
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.main-container h1 {
+    color: #333;
+    text-align: column;
+    text-align: center;
+    margin-top: 20px;
+}
